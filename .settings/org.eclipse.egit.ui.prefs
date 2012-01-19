@@ -1,0 +1,8 @@
+#Wed Apr 06 15:49:12 CEST 2011
+show_initial_config_dialog=false
+resourcehistory_graph_split=500,500
+eclipse.preferences.version=1
+org.eclipse.egit.ui.internal.push.SimpleConfigurePushDialog_ADVANCED_MODE=true
+resourcehistory_compare_mode=true
+resourcehistory_rev_split=700,300
+show_home_drive_warning=always
